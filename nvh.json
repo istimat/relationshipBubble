@@ -64,6 +64,21 @@
 	{"source": "Valentin O.", "target": "Alexandra", "value": 1},
 	{"source": "Valentin O.", "target": "Ionut", "value": 1},
 	{"source": "Valentin O.", "target": "Istvan Matuz", "value": 1},
-	{"source": "Sergiu", "target": "Andrei", "value": 1}
+	{"source": "Sergiu", "target": "Andrei", "value": 1},
+	{"source": "Sergiu", "target": "Martin Borchardt", "value": 1},
+	{"source": "Sergiu", "target": "Alex Unterkreuter", "value": 1},
+	{"source": "Ancuta", "target": "Mikel Marzana", "value": 1},
+	{"source": "Ancuta", "target": "Valentin Pasquier", "value": 1},
+	{"source": "Ancuta", "target": "Ingrid", "value": 1},
+	{"source": "Ancuta", "target": "Tamas", "value": 1},
+	{"source": "Ancuta", "target": "Marius Sirbu", "value": 1},
+	{"source": "Ancuta", "target": "Atilla", "value": 1},
+	{"source": "Ancuta", "target": "Wenjing Zhang", "value": 1},
+	{"source": "Atilla", "target": "Florian Pitzer", "value": 1},
+	{"source": "Atilla", "target": "Valentin Pasquier", "value": 1},
+	{"source": "Atilla", "target": "Sascha Mader", "value": 1},
+	{"source": "Atilla", "target": "Mikel Marzana", "value": 1},
+	{"source": "Istvan Matuz", "target": "Florian Pitzer", "value": 1},
+	{"source": "Istvan Matuz", "target": "Sascha Mader", "value": 1}
   ]
 }

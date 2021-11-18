@@ -12,7 +12,7 @@
 	{"id": "Atilla", "group": 1},
 	{"id": "Istvan Matuz", "group": 1},
 	{"id": "Dan Creivean", "group": 1},
-	{"id": "Robi Sz.", "group": 2},
+	{"id": "Robi Sz.", "group": 1},
 	{"id": "Tobias Simon", "group": 2},
 	{"id": "Arno Fuchs", "group": 2},
 	{"id": "Alex Unterkreuter", "group": 2},
@@ -20,12 +20,12 @@
 	{"id": "David Chrupalla", "group": 2},
 	{"id": "Dragos Josan", "group": 2},
 	{"id": "Hannes Breitschwerdt", "group": 2},
-	{"id": "Vicentiu Hruban", "group": 2},
+	{"id": "Vicentiu Hruban", "group": 1},
 	{"id": "John Murray", "group": 2},
 	{"id": "Florian Pitzer", "group": 2},
 	{"id": "Valentin Pasquier", "group": 2},
 	{"id": "Ingrid", "group": 2},
-	{"id": "Marius Sirbu", "group": 2},
+	{"id": "Marius Sirbu", "group": 1},
 	{"id": "Sascha Mader", "group": 2},
 	{"id": "Wenjing Zhang", "group": 2},
 	{"id": "Ralf Spiess", "group": 2},
@@ -78,6 +78,11 @@
 	{"source": "Atilla", "target": "Sascha Mader", "value": 1},
 	{"source": "Atilla", "target": "Mikel Marzana", "value": 1},
 	{"source": "Istvan Matuz", "target": "Florian Pitzer", "value": 1},
-	{"source": "Istvan Matuz", "target": "Sascha Mader", "value": 1}
+	{"source": "Istvan Matuz", "target": "Sascha Mader", "value": 1},
+	{"source": "Istvan Matuz", "target": "Dan Creivean", "value": 1},
+	{"source": "Dan Creivean", "target": "Robi Sz.", "value": 1},
+	{"source": "Dan Creivean", "target": "Tamas", "value": 1},
+	{"source": "Dan Creivean", "target": "Marius Sirbu", "value": 1},
+	{"source": "Dan Creivean", "target": "Vicentiu Hruban", "value": 1}
   ]
 }

@@ -19,7 +19,7 @@ text {
 
 </style>
 <svg width="960" height="600"></svg>
-<script src="C:/FS1/Relationships/script.js"></script>
+<script src="script.js"></script>
 <script>
 
 var svg = d3.select("svg"),
@@ -33,7 +33,7 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-d3.json("C:/FS1/Relationships/nvh.json", function(error, graph) {
+d3.json("nvh.json", function(error, graph) {
   if (error) throw error;
 
   var link = svg.append("g")

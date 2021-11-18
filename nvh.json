@@ -34,7 +34,7 @@
 	{"id": "Thorsten Riegger", "group": 2}
   ],
   "links": [
-    {"source": "Davide", "target": "Robi Sz", "value": 1},
+    {"source": "Davide", "target": "Robi Sz.", "value": 1},
 	{"source": "Davide", "target": "Tobias Simon", "value": 1},
 	{"source": "Davide", "target": "Arno", "value": 1},
 	{"source": "Alexandra", "target": "Istvan Matuz", "value": 1},
